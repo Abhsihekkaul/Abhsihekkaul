@@ -1,31 +1,26 @@
-👋 Hello, I'm Abhishek!
-Welcome to my GitHub profile! I'm a passionate self-taught developer, blending my skills in full-stack development with a vision to create impactful projects that solve real-world problems. Coding since I was 13, my journey has been one of continuous learning, resilience, and a commitment to making a mark in the tech world.
+<h1 align="center">Hi 👋, I'm Abhishek kaul</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhsihekkaul&label=Profile%20views&color=0e75b6&style=flat" alt="abhsihekkaul" /> </p>
+
+- 🌱 I’m currently learning **Docker, Kubernetes,**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Abhsihekkaul?tab=repositories](https://github.com/Abhsihekkaul?tab=repositories)
+
+- 📫 How to reach me **Abhishekkaul32@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kaulabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaulabhishek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-kaul-7899551b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kaul-7899551b6" height="30" width="40" /></a>
+<a href="https://fb.com/anku.kaul.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anku.kaul.56" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishek_kaul000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_kaul000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhishek_kaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_kaul" height="30" width="40" /></a>
 </p>
 
-🚀 About Me
-Frontend Developer: Currently focusing on React and JavaScript, building efficient, user-friendly applications with a strong understanding of core web concepts.
-Aspiring Full-Stack Developer: Working towards full-stack mastery, honing my backend skills alongside my frontend expertise.
-Problem Solver: Skilled in data structures and algorithms, with a passion for optimizing and improving the efficiency of my solutions.
-Life-Long Learner: Driven by curiosity, I am always diving into new topics, from backend development to the latest frontend libraries and techniques.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhsihekkaul&show_icons=true&locale=en&layout=compact" alt="abhsihekkaul" /></p>
 
-🔨 Current Projects
-BookOPedia 📚
-A knowledge-sharing platform where users summarize key learnings from books, creating a community-driven knowledge hub. [Project in Progress]
-
-💡 Future Goals
-Build a Personal GPT Model for Mental Health 🤖
-I envision creating an app where users can interact with an AI model trained on psychological principles to support mental well-being and address intellectual challenges.
-
-Open Source Contributions
-Aspiring to contribute to impactful open-source projects and eventually launch my own initiatives in the open-source community.
-
-📈 My Tech Stack
-Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
-Backend: Node.js (in progress) , MongoDB  , ExpressJS
-Tools & Frameworks: Git, GitHub, VSCode, Postman
-Learning Next: React Routers, advanced CSS animations, and backend API development
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhsihekkaul&show_icons=true&locale=en" alt="abhsihekkaul" /></p>
