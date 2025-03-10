@@ -1,6 +1,10 @@
 👋 Hello, I'm Abhishek!
 Welcome to my GitHub profile! I'm a passionate self-taught developer, blending my skills in full-stack development with a vision to create impactful projects that solve real-world problems. Coding since I was 13, my journey has been one of continuous learning, resilience, and a commitment to making a mark in the tech world.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 🚀 About Me
 Frontend Developer: Currently focusing on React and JavaScript, building efficient, user-friendly applications with a strong understanding of core web concepts.
 Aspiring Full-Stack Developer: Working towards full-stack mastery, honing my backend skills alongside my frontend expertise.
